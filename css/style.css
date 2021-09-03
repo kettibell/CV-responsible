@@ -339,5 +339,10 @@ text-align: center;
     height: auto; 
     width: auto; 
   }
+
+  .main-container { 
+    background-color: white;
+    margin: 10px 10px;
+  }
   
 }
