@@ -283,6 +283,8 @@ text-align: center;
   }
 }
 
+/*--------------------------Smaller screens----------------------------------*/
+
 @media only screen and (min-width: 744px) and (max-width: 899px) {
  
   .about-me-section {
